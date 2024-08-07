@@ -1,0 +1,16 @@
+{
+    "id": 25669201,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Mag",
+    "photoUrls":[],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vacinned"
+      }
+    ],
+    "status": "available"
+  }
